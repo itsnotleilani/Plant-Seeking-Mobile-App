@@ -17,3 +17,5 @@ Usage
 Open the app and answer each question to identify the type of plant.
 Navigate through the app using the provided buttons for "Yes" or "No" responses.
 Explore different paths based on user input.
+
+![display](https://github.com/itsnotleilani/Plant-Seeking-Mobile-App/assets/86632826/8b9cfdaa-f42d-41ff-a278-3887e34a2242)
